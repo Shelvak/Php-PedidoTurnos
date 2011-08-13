@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<info>
-	<infoitem key="UD_Recordset1" value="name:idContacto;datatype:int,name:Nombre;datatype:string,name:Apellido;datatype:string,name:telefono;datatype:string,name:idGrupo;datatype:int" />
-	<infoitem key="UD_Contactos" value="name:idContacto;datatype:int,name:Nombre;datatype:string,name:Apellido;datatype:string,name:telefono;datatype:string,name:idGrupo;datatype:int" />
-	<infoitem key="UD_contacto1" value="name:idContacto;datatype:int,name:Nombre;datatype:string,name:Apellido;datatype:string,name:telefono;datatype:string,name:idGrupo;datatype:int" />
-</info>
