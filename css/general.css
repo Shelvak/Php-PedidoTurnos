@@ -1,0 +1,90 @@
+body {
+	background-color: #000;
+	font-family: Comic Sans MS, cursive;
+	font-size: 20px;
+	color: #0CC;
+	font-weight: bold;
+}
+
+.titulo{
+    position: absolute;    
+}
+
+.error{
+    background-color: red;
+}
+table {
+    border: 2px solid gray;
+    width: 100%;
+    
+}
+.tdmenu{
+    width: 25%;
+    height: 170px;
+}
+input[type='text'] {
+    width: 80%;
+    margin: .2em 0em .5em 2em;
+}
+
+a {
+   color: #ebd64d;
+   text-decoration: none;
+}
+.menuizq{
+height: 100% ;
+width: 25%; 
+}
+.formulario {
+    width:60%;
+    border: 1px solid grey;
+    margin: 0px auto;
+}
+.lista {
+    width:85%;
+    border: 1px solid grey;
+    margin: 0px auto;
+    font-size: 14px;
+}
+table tr, td {
+    border: 1px solid grey;
+    padding: .3em;
+    font: Comic Sans MS, cursive, 16px;
+}
+table th {
+    background-color: #555555;
+}
+.edit{
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+ul.menu
+{
+   list-style:none;
+}
+ul.menu li
+{
+   position:relative;
+   color: #ebd64d;
+}
+ul.menu ul
+{
+   position:absolute;
+   left:25%;
+   top:-1px;
+   right: -60%;
+   display:none;
+   list-style:none;
+   
+}
+ul.menu li:hover > ul
+{
+   display:block;
+}
+
+input {
+    color:#3CC;
+    background-color:#333;
+}
